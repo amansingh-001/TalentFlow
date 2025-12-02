@@ -52,11 +52,11 @@ Typical features for TalentFlow frontend:
 
 ## 🛠️ Built with (possible stack)
 
-- TypeScript / JavaScript
-- Framework: React / Preact / Vue / Vanilla (update as needed)
-- CSS (vanilla), or Tailwind / SCSS for utility-first styling
-- Optional: Vite / Webpack for bundling
-- Optional: Netlify / Vercel for deployment
+- TypeScript 
+- Framework: React 
+- Tailwind / SCSS for utility-first styling
+- Vite / Webpack for bundling
+- Netlify / Vercel for deployment
 
 ---
 
